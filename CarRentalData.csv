@@ -1,4 +1,4 @@
-fuelType,rating,renterTripsTaken,reviewCount,location.city,location.country,location.latitude,location.longitude,location.state,owner.id,rate.daily,vehicle.make,vehicle.model,vehicle.type,vehicle.year
+fuelType,rating,renterTripsTaken,reviewCount,locationcity,locationcountry,locationlatitude,locationlongitude,locationstate,ownerid,ratedaily,vehiclemake,vehiclemodel,vehicletype,vehicleyear
 ELECTRIC,5,13,12,Seattle,US,47.449107,-122.308841,WA,12847615,135,Tesla,Model X,suv,2019
 ELECTRIC,5,2,1,Tijeras,US,35.11106,-106.276551,NM,15621242,190,Tesla,Model X,suv,2018
 HYBRID,4.92,28,24,Albuquerque,US,35.127163,-106.566681,NM,10199256,35,Toyota,Prius,car,2012
